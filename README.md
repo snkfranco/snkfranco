@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/snkfranco" target="blank"><img src="https://img.shields.io/twitter/follow/snkfranco?logo=twitter&style=for-the-badge" alt="snkfranco" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects and freelas**
+- 🔭 I am currently working on **personal projects and freelancing**.
 
-- 🌱 I’m currently learning **C++, C#, JS and Java**
+- 🌱 I am currently learning **C++, C#, JavaScript, and Java**.
 
-- 👯 I’m looking to collaborate on **more projects**
+- 👯 I am looking to collaborate on **more projects**.
 
-- 💬 Ask me about **python, tech and automation**
+- 💬 Ask me about **Python, tech, and automation**.
 
-- 📫 How to reach me **matheusmfranco.mf@gmail.com**
+- 📫 How to reach me: **matheusmfranco.mf@gmail.com**
 
-- ⚡ Fun fact **Extreme obsession in learning**
+- ⚡ Fun fact: **Extremely obsessed with learning**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
