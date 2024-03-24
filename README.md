@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=snkfranco&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=snkfranco&style=for-the-badge-0d1117)
   
 <br></div>
 
