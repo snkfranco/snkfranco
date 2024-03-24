@@ -34,7 +34,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=snkfranco&style=for-the-badge)
+  
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50CEFF&height=120&section=footer"/>
