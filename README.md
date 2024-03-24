@@ -10,7 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snkfranco&label=Profile%20views&color=50CEFF&style=discord" alt="snkfranco" /> </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snkfranco&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snkfranco&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snkfranco&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snkfranco" alt="snkfranco" /></a> </p>
 
