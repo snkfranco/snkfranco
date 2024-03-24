@@ -12,9 +12,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snkfranco&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#<p align="center">
-#  <img src="https://github-profile-trophy.vercel.app/?username=snkfranco&theme=dark-blue&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&bg_color=0d1117&title_color=50CEFF" />
-#</p>
+#*<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snkfranco&theme=dark-blue&row=1&no-bg=true&column=4&margin-w=15&margin-h=15&bg_color=0d1117&title_color=50CEFF" />
+</p>*#
 
 - 🔭 I’m currently working on **personal projects and freelancing**
 
