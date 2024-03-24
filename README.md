@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=snkfranco&theme=dark-blue&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snkfranco" alt="snkfranco" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snkfranco" alt="snkfranco" /></a> </p>
 
 - 🔭 I’m currently working on **personal projects and freelancing**
 
