@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Matheus Franco (SNK)</h1>
 <h3 align="center">A passionate python developer from Brazil</h3>
 
